@@ -1,1 +1,2 @@
-# odin-recipes-2026
+This project is about recipe.
+The project will include reflections on what I have learned.
